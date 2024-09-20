@@ -61,15 +61,4 @@ An example is provided in `.env.example`
 ```bash
 make run
 ```
-
-6. Run tests:
-
-```bash
-make test
-```
-
-7. Lint and format:
-
-```bash
-make check
-```
+Enjoy!
